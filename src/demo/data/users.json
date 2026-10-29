@@ -1,0 +1,5 @@
+[
+  { "id": "u-admin", "name": "Aziz Karimov", "role": "admin", "pin": "1111", "active": true },
+  { "id": "u-dilnoza", "name": "Dilnoza Rahimova", "role": "cashier", "pin": "2222", "active": true },
+  { "id": "u-jasur", "name": "Jasur Toshmatov", "role": "cashier", "pin": "3333", "active": true }
+]

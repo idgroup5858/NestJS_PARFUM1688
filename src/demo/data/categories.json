@@ -1,0 +1,11 @@
+[
+  { "id": "floral", "name": { "ru": "Цветочные", "uz": "Gulli" }, "image": "categories/floral.jpg", "group": "family", "sort": 1 },
+  { "id": "woody", "name": { "ru": "Древесные", "uz": "Yog'ochli" }, "image": "categories/woody.jpg", "group": "family", "sort": 2 },
+  { "id": "oriental", "name": { "ru": "Восточные", "uz": "Sharqona" }, "image": "categories/oriental.jpg", "group": "family", "sort": 3 },
+  { "id": "fresh", "name": { "ru": "Свежие", "uz": "Yangi, salqin" }, "image": "categories/fresh.jpg", "group": "family", "sort": 4 },
+  { "id": "citrus", "name": { "ru": "Цитрусовые", "uz": "Sitrusli" }, "image": "categories/citrus.jpg", "group": "family", "sort": 5 },
+  { "id": "sweet", "name": { "ru": "Сладкие", "uz": "Shirin" }, "image": "categories/sweet.jpg", "group": "family", "sort": 6 },
+  { "id": "spicy", "name": { "ru": "Пряные", "uz": "Ziravorli" }, "image": "categories/spicy.jpg", "group": "family", "sort": 7 },
+  { "id": "premium", "name": { "ru": "PREMIUM", "uz": "PREMIUM" }, "image": "categories/premium.jpg", "group": "class", "sort": 10 },
+  { "id": "top", "name": { "ru": "TOP", "uz": "TOP" }, "image": "categories/top.jpg", "group": "class", "sort": 11 }
+]

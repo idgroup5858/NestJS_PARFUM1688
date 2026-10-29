@@ -1,0 +1,11 @@
+{
+  "name": "PARFUM1688",
+  "phone": "+998901234567",
+  "address": "Toshkent sh., Amir Temur ko'chasi, 15",
+  "customerAccentId": "emerald",
+  "minGrams": 50,
+  "gramChips": [50, 100, 200, 500],
+  "lowStockGrams": 300,
+  "lowStockPieces": 3,
+  "receiptFooter": "Xaridingiz uchun rahmat! Спасибо за покупку!"
+}

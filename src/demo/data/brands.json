@@ -1,0 +1,22 @@
+[
+  { "id": "louis-vuitton", "name": "Louis Vuitton", "country": "Fransiya" },
+  { "id": "dior", "name": "Dior", "country": "Fransiya" },
+  { "id": "chanel", "name": "Chanel", "country": "Fransiya" },
+  { "id": "tom-ford", "name": "Tom Ford", "country": "AQSH" },
+  { "id": "creed", "name": "Creed", "country": "Fransiya" },
+  { "id": "xerjoff", "name": "Xerjoff", "country": "Italiya" },
+  { "id": "kilian", "name": "Kilian", "country": "Fransiya" },
+  { "id": "mfk", "name": "Maison Francis Kurkdjian", "country": "Fransiya" },
+  { "id": "prada", "name": "Prada", "country": "Italiya" },
+  { "id": "paco-rabanne", "name": "Paco Rabanne", "country": "Ispaniya" },
+  { "id": "ysl", "name": "Yves Saint Laurent", "country": "Fransiya" },
+  { "id": "armani", "name": "Giorgio Armani", "country": "Italiya" },
+  { "id": "clive-christian", "name": "Clive Christian", "country": "Buyuk Britaniya" },
+  { "id": "lorenzo-pazzaglia", "name": "Lorenzo Pazzaglia", "country": "Italiya" },
+  { "id": "roja", "name": "Roja Parfums", "country": "Buyuk Britaniya" },
+  { "id": "byredo", "name": "Byredo", "country": "Shvetsiya" },
+  { "id": "initio", "name": "Initio", "country": "Fransiya" },
+  { "id": "pdm", "name": "Parfums de Marly", "country": "Fransiya" },
+  { "id": "montale", "name": "Montale", "country": "Fransiya" },
+  { "id": "amouage", "name": "Amouage", "country": "Ummon" }
+]

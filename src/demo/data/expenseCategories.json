@@ -1,0 +1,8 @@
+[
+  { "id": "rent", "name": "Ijara" },
+  { "id": "salary", "name": "Oylik maosh" },
+  { "id": "utilities", "name": "Kommunal" },
+  { "id": "ads", "name": "Reklama" },
+  { "id": "courier", "name": "Kuryer xizmati" },
+  { "id": "other", "name": "Boshqa" }
+]

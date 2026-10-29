@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bn-new",
+    "title": { "ru": "Новые ароматы", "uz": "Yangi atirlar" },
+    "subtitle": { "ru": "Самые свежие поступления сезона — выбирайте первыми.", "uz": "Mavsumning eng so'nggi kelgan atirlari — birinchi bo'lib tanlang." },
+    "button": { "ru": "Смотреть новинки", "uz": "Yangiliklarni ko'rish" },
+    "link": "/catalog?filter=new",
+    "image": "banners/new.png",
+    "active": true,
+    "sort": 1
+  },
+  {
+    "id": "bn-razliv",
+    "title": { "ru": "Духи на розлив", "uz": "Quyib sotiladigan atirlar" },
+    "subtitle": { "ru": "Любой аромат от 50 г — в удобном флаконе.", "uz": "Istalgan atir 50 g dan — qulay flakonda." },
+    "button": { "ru": "Перейти в каталог", "uz": "Katalogga o'tish" },
+    "link": "/catalog",
+    "image": "banners/razliv.png",
+    "active": true,
+    "sort": 2
+  },
+  {
+    "id": "bn-original",
+    "title": { "ru": "Оригинальные флаконы", "uz": "Original flakonlar" },
+    "subtitle": { "ru": "Запечатанные флаконы мировых брендов.", "uz": "Jahon brendlarining ochilmagan flakonlari." },
+    "button": { "ru": "Выбрать", "uz": "Tanlash" },
+    "link": "/catalog?filter=bottle",
+    "image": "banners/original.png",
+    "active": true,
+    "sort": 3
+  }
+]

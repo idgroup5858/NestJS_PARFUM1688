@@ -1,0 +1,7 @@
+[
+  { "id": "fl-50", "name": "Flakon 50 ml", "volumeMl": 50, "price": 15000, "image": "flakons/fl-50.png", "active": true },
+  { "id": "fl-100", "name": "Flakon 100 ml", "volumeMl": 100, "price": 25000, "image": "flakons/fl-100.png", "active": true },
+  { "id": "fl-200", "name": "Flakon 200 ml", "volumeMl": 200, "price": 35000, "image": "flakons/fl-200.png", "active": true },
+  { "id": "fl-500", "name": "Idish 500 ml", "volumeMl": 500, "price": 45000, "image": "flakons/fl-500.png", "active": true },
+  { "id": "fl-spray-50", "name": "Premium sprey 50 ml", "volumeMl": 50, "price": 40000, "image": "flakons/fl-spray-50.png", "active": true }
+]
