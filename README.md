@@ -28,8 +28,12 @@
 
 
 
-                    url -fsSL https://deb.nodesource.com/setup_24.x | sudo -E bash -
-                    sudo apt install -y nodejs
+                    apt update
+                    apt install -y curl ca-certificates
+                    curl -fsSL https://deb.nodesource.com/setup_24.x | bash -
+                    apt install -y nodejs
+                    hash -r
+                    node -v
 
 
 
@@ -56,7 +60,9 @@
                     PAROLNI OZGARTIRISH
                     sudo -u postgres psql
                     ALTER USER postgres WITH PASSWORD 'root';
-                    CREATE DATABASE prses OWNER postgres;
+                    CREATE DATABASE parfum1688 OWNER postgres;
+                    \l
+                    \q
                     sudo -u postgres psql -l
 
                     \q
